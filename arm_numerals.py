@@ -1,5 +1,5 @@
 import json
-import logging
+
 
 def json_reader(file):  
     with open(file, "r", encoding="utf-8") as read_file:
